@@ -1,9 +1,11 @@
-🔍 Hi everyone, I'm Kachito.
+🔍 Hello everyone, we're kDevelopments.
 
-🌍 I was born in Spain but raised in Romania.
+🌍 Based in the heart of innovative technology.
 
-💻 I specialize in developing FiveM servers and am currently studying cybersecurity.
+💻 We specialize in Lua development for FiveM, delivering top-notch custom scripts and server solutions.
 
-🤝 I am open to collaborating on projects related to my areas of expertise.
+🚀 Passionate about pushing the boundaries of what's possible in the FiveM community.
 
-📬 You can reach me on Discord: kachitoh.
+🤝 Open to collaborations and partnerships to create outstanding gaming experiences.
+
+📬 Reach out to us on Discord: [kDevelopments.](https://discord.gg/Js3Qr2DF5q)
